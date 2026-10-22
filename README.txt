@@ -13,7 +13,7 @@ HOW TO OPEN
 3. Double-click index.html to open it in a browser.
 
 BEFORE PUBLISHING
-1. In index.html, replace your.email@example.com with your real email address.
+1. In index.html, replace hasithmalshan.me@gmail.com with your real email address.
 2. To add your photo later:
    - Put your photo in the assets folder and name it profile.jpg.
    - In index.html, find the <div class="profile-placeholder"...> block.
@@ -35,3 +35,9 @@ NOTES
 - This is a static front-end portfolio starter. It does not include a database or server-side features.
 - Fonts are loaded from Google Fonts; if offline, fallback fonts are used.
 - No private phone number, home address, or other sensitive personal details have been added.
+
+
+Updated for Hasith Malshan:
+- Contact number: 0778700652
+- Email: hasithmalshan.me@gmail.com
+- Profile photo: assets/hasith-profile.jpg
